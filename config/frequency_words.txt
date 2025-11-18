@@ -1,14 +1,25 @@
-华为
-京东
-字节
-bytedance
-微软
-Microsoft
+eda
+芯片
+chip
+
+ai
+人工智能
+
+美国
+日本
+韩国
+
+智元
+灵犀
+稚晖君
+彭志辉
 
 英伟达
 NVIDIA
 黄仁勋
+
 AMD
+
 谷歌
 google
 gemini
@@ -23,14 +34,11 @@ Anthropic
 
 人机交互
 
+ai
+!gai
+人工智能
+
 pico
 quest
 meta
 vr
-
-ai
-人工智能
-
-EDA
-芯片
-chip
